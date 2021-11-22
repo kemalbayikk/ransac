@@ -1,1 +1,1 @@
-# ransac
+# RANSAC Matlab implementation.
